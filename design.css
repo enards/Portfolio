@@ -1,0 +1,25 @@
+body {
+  background-image: url("asta.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.form {
+background-color:#FFDFD3;
+border-style:ridge;
+position:absolute;
+left:45%;
+top:30%;
+}
+.register {
+background-color: #FFDFD3;
+border-style:ridge;
+position: absolute;
+left: 40%;
+top: 30%;
+}
+.error {
+	color: red;
+}
+.success {
+	color: green;
+}
